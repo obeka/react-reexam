@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+}
+
+.item {
+    min-width: 200px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: .3s linear;
+   
+}
+
+.name {
+    padding-bottom: 20px;
+    
+}
+
+.item:hover {
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
